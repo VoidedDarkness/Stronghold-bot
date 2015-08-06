@@ -1,5 +1,5 @@
 # Stronghold-bot
-Source code for my bot as I build it up
+Source code for my bot as I build it up. View in Raw.
 
 SetTitleMatchMode=2
 WinGet, client, ID, MapleStory
